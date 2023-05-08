@@ -23,3 +23,16 @@ A python script that can stitch two images into a panorama through feature detec
  ```
  python3 panorama_stitching.py
  ```
+## Results 
+
+![image](Media/Q2/Q2imageA.png)
+<br>
+Image num:1
+<br>
+![image](Media/Q2/Q2imageB.png)
+<br>
+Image num: 2
+<br>
+![image](Results/results.png)
+<br>
+Final Result
