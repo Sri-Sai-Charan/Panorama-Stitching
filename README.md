@@ -33,6 +33,6 @@ Image num:1
 <br>
 Image num: 2
 <br>
-![image](Results/results.png)
+![image](Results/results.jpg)
 <br>
 Final Result
