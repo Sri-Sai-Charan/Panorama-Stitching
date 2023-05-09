@@ -29,6 +29,6 @@ A python script that can stitch two images into a panorama through feature detec
         <td><img src='Media/Q2/Q2imageA.png'><p align='center'>Image num:1</p></td>
         <td><img src='Media/Q2/Q2imageB.png'><p align='center'>Image num:2</p></td>
     </tr>
-    <tr><td><img src='Results/results.jpg'><p align='center'>Final Result</p></td></tr>
+    <tr><td colspan="2"><img src='Results/results.jpg'><p align='center'>Final Result</p></td></tr>
 </table>
 
